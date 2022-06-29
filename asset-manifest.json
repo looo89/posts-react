@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/posts-react/static/css/main.65612901.css",
+    "main.js": "/posts-react/static/js/main.934bead9.js",
+    "index.html": "/posts-react/index.html",
+    "main.65612901.css.map": "/posts-react/static/css/main.65612901.css.map",
+    "main.934bead9.js.map": "/posts-react/static/js/main.934bead9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65612901.css",
+    "static/js/main.934bead9.js"
+  ]
+}
